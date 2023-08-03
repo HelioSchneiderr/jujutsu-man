@@ -11,32 +11,36 @@ h1{
 .logo{
     display: flex;
     align-items: center;
+    background-color: #101728;
     font-family: 'Codec', sans-serif;
     align-items: center;
-    margin-left: 63px;
-    margin-top: 14px;
+    padding-left: 63px;
+    padding-top: 14px;
+    cursor: pointer;
 }
 
+/*Section 1*/
+
 .section-1{
+    
     display: flex;
+    background-color: #101728;
     align-items: center;
     flex-wrap: wrap;
-    width: 76%;
-    margin-left: 63px
+    width: 100%;
+    
 }
 
 .section-1 h1{
     font-size: 65px;
     width: 532px;
+    margin-left: 63px;
 }
 
 .section-1 img{
-   margin-left: 50px;
+   margin-left: 150px;
 }
 
-
-
-/* CSS */
 .section-1 button{
   background: rgb(147,64,255);
   background: linear-gradient(90deg, rgba(147,64,255,1) 0%, rgba(16,23,40,1) 100%);
@@ -50,7 +54,8 @@ h1{
   font-size: 18px;
   font-weight: 700;
   line-height: 24px;
-  margin: 0;
+  margin-left: 63px;
+  margin-bottom: 150px;
   min-height: 56px;
   min-width: 120px;
   padding: 16px 20px;
@@ -70,6 +75,99 @@ h1{
 
 @media (min-width: 768px) {
   .section-1 button {
+    padding: 16px 44px;
+    min-width: 150px;
+  }
+}
+
+/*Section 2*/
+
+
+.section-2{
+  text-align: center;
+  background-color: #202B39;
+  color: white;
+  width: 100%;
+  padding-top: 100px;
+}
+
+.section-2 h1{
+  font-family: 'Codec', sans-serif;
+  font-size: 48px;
+  padding-top: 183px;
+}
+
+.section-2 p{
+  padding: 25px;
+  font-family: 'Codec', sans-serif;
+  font-size: 16.5px;
+  font-weight: bold;
+  line-height: 25px;
+  text-align: center;
+  width: 815px;
+  padding-bottom: 340px;
+  margin: auto;
+}
+
+/*Section 3*/
+
+.section-3{
+  background-color: #101728;
+}
+
+.section-3 .buttons-img{
+  display: flex;
+  align-items: center;
+  padding-bottom: 136px;
+}
+
+.section-3 img{
+  margin-left: 400px;
+  width: 462px;
+  height: 462px;
+}
+
+.section-3 h1{
+  color: #9340FF;
+  padding-top: 114px;
+  font-size: 48px;
+  margin-left: 63px;
+}
+
+.section-3 button{
+  background: rgb(147,64,255);
+  background: linear-gradient(90deg, rgba(147,64,255,1) 0%, rgba(16,23,40,1) 100%);
+  border-radius: 25px;
+  border: 0;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inherit;
+  font-family: "Space Grotesk",-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: 63px;
+  margin-top: 32px;
+  width: 238px;
+  height: 63px;
+  padding: 16px 20px;
+  position: relative;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  transition: all .2s cubic-bezier(.22, .61, .36, 1);
+}
+
+.section-3 button:hover {
+  background-color: #065dd8;
+  transform: translateY(-2px);
+}
+
+@media (min-width: 768px) {
+  .section-3 button {
     padding: 16px 44px;
     min-width: 150px;
   }
