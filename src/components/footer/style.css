@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Codec' ;
+    src: url('../.././fonts/codec-pro-extrabold.ttf') format('truetype');
+    font-family: regular;
+}
+
+
+.footer{
+    padding-top: 160px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #101728;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    background-color: #101728;
+    font-family: 'Codec', sans-serif;
+    align-items: center;
+    padding-left: 63px;
+    padding-top: 14px;
+    cursor: pointer;
+}
+
+.contact{
+    width: 470px;
+    margin-bottom: 10px;
+    color: white;
+    padding: 10px;
+}
+
+.contact p img{
+    padding-right: 10px;
+}
+
+.contact p{
+    font-family: 'Codec', sans-serif;
+    font-size: 16.5px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.contact h1{
+    margin-bottom: 10px;
+    font-size: 42px;
+    color: #9340FF;
+}

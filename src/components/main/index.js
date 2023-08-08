@@ -6,7 +6,7 @@ import Dice from "../.././img/dice.png"
 import Book from "../.././img/book.png"
 
 
-function index() {
+function index({ changePage }) {
   return (
     <>
 
@@ -27,7 +27,7 @@ function index() {
           <h1>Jujutsu Man Lore</h1>
           <div className='buttons-img'>
             <div>
-              <button>Arcos</button>
+              <button onClick={changePage(1)}>Arcos</button>
               <button>Lugares</button>
               <button>Clãs</button>
               <button>Personagens</button>
