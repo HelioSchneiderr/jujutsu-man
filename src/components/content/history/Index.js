@@ -11,7 +11,7 @@ const Index = () => {
     useEffect(() => {
         fetch('/data.json')
             .then(response => response.json())
-            .then(data => setArcs(data.arcs))
+            .then(data => setArcs(data.data.arcs))
             .catch(error => console.error('Error fetching data:', error));
     }, []);
 
@@ -33,7 +33,7 @@ const Index = () => {
                         <li key={arc.id}>
                             {arc.popUpState ? (
                                 <div className="popUpCard" >
-                                    <img className='card-up' src={arc.img} alt={arc.title} width='250px' height='250px' />
+                                    <img className='card-up' src={arc.img2} alt={arc.title} width='250px' height='250px' />
                                     <div>
                                         <h2>{arc.title}</h2>
                                         <p>{arc.history}</p>

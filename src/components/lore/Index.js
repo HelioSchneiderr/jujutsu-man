@@ -5,11 +5,11 @@ import './style.css'
 import History from '../content/history/Index'
 import Characters from '../content/history/Index'
 import Clans from '../content/history/Index'
-import Locals from '../content/history/Index'
+import Locals from '../content/locals/Index'
 
 const Index = () => {
 
-    const [control, setControl] = useState(0);
+    const [control, setControl] = useState(1);
 
 
 

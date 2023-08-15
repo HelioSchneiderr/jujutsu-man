@@ -1,40 +1,90 @@
 {
-  "arcs": [
-    {
-      "id": 1,
-      "img": "https://t4.ftcdn.net/jpg/05/60/44/93/360_F_560449312_I6FTJ1HWythaLutWDMuHvJy2IoCv20iJ.jpg",
-      "title": "Demônio da Ira",
-      "history": "Assombra os pesadelos daqueles que se atrevem a cruzar seu caminho. Sua mera presença é um presságio de desgraça, deixando um rastro de destruição e caos por onde passa. Os contos sobre o Demônio da Ira falam de um ser com chifres afiados como lâminas, olhos ardentes como brasas e uma pele tão escura quanto a meia-noite. Seu rugido ressoa como trovões, fazendo tremer até os corações mais corajosos. Dizem que ele surge quando as paixões humanas se inflamam, quando a raiva e a fúria atingem um ponto de ebulição."
-    },
-    {
-      "id": 2,
-      "img": "https://img.freepik.com/fotos-premium/papeis-de-parede-de-cenario-de-anime-que-farao-voce-querer-ver-papel-de-parede-de-cenario-de-anime-papel-de-parede-de-cenario-de-anime-papel-de-parede-de-cenario-de-anime-papel-de-parede-de-cenario-de-anime-anime_900958-35255.jpg?w=2000",
-      "title": "Cidade Rosa",
-      "history": "Uma cidade misteriosa e envolta em um brilho etéreo de tonalidades rosa. Lendas urbanas contam que a Cidade Rosa é habitada por criaturas sobrenaturais que se alimentam das emoções humanas. Suas ruas sinuosas e becos sombrios escondem segredos sombrios e encontros inesperados. Dizem que aqueles que entram na Cidade Rosa podem ter seus desejos realizados, mas a um custo terrível. As sombras dançam ao luar, e os suspiros de esperança ecoam pelas ruas enquanto o crepúsculo se desvanece em escuridão."
-    },
-    {
-      "id": 3,
-      "img": "https://img.freepik.com/premium-photo/anime-style-dark-street-with-dark-city-dark-building_717440-9200.jpg",
-      "title": "Reino das Correntes",
-      "history": "O Reino das Correntes é um mundo paralelo onde as leis da física são distorcidas. Neste reino enigmático, as correntes de energia são visíveis e palpáveis, e os usuários de Jujutsu têm o poder de manipular essas correntes para moldar a realidade à sua vontade. Porém, cada manipulação tem um preço, e a ganância por poder pode levar à ruína. Aqueles que se aventuram no Reino das Correntes devem enfrentar desafios de lógica e ilusões hipnotizantes, enquanto tentam dominar o fluxo de correntes que entrelaça tudo."
-    },
-    {
-      "id": 4,
-      "img": "https://w0.peakpx.com/wallpaper/173/925/HD-wallpaper-sukuna-anime-city-dark-edit-jujutsu-jujutsu-kaisen-night.jpg",
-      "title": "Estrada dos Pesadelos",
-      "history": "A Estrada dos Pesadelos é um caminho sombrio que atravessa as profundezas da mente humana. Quando os sonhos e os pesadelos colidem, esta estrada se materializa, levando os viajantes a um labirinto de ilusões e medos. Os usuários de Jujutsu que ousam percorrer essa estrada devem confrontar seus próprios demônios interiores, enfrentando horrores que só existem nas profundezas do subconsciente. A Estrada dos Pesadelos é um teste de coragem e autoconhecimento, onde a linha entre a realidade e a imaginação se dissolve."
-    },
-    {
-      "id": 5,
-      "img": "https://img.freepik.com/fotos-premium/garota-de-anime-em-fones-de-ouvido-neon-generative-ai_170984-6109.jpg",
-      "title": "Sinfonia dos Fantasmas",
-      "history": "Numa noite de lua cheia, os espíritos dos falecidos ganham vida e se reúnem para uma macabra sinfonia. A Sinfonia dos Fantasmas ocorre em um cemitério antigo, onde as lápides se transformam em instrumentos e as árvores sussurram canções melancólicas. Os usuários de Jujutsu são convocados para investigar o mistério por trás desse fenômeno sobrenatural. Porém, os fantasmas não descansam facilmente, e o poder da música fantasmagórica pode revelar segredos obscuros que devem permanecer enterrados."
-    },
-    {
-      "id": 6,
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/yuji-itadori-jujutsu-kaisen-personagens-principais_pdhj.600.jpg",
-      "title": "Labirinto de Sombras",
-      "history": "Uma dimensão de escuridão e enigmas, o Labirinto de Sombras é um local onde a luz não pode penetrar. Os usuários de Jujutsu que entram neste labirinto devem enfrentar criaturas feitas de sombras e resolver quebra-cabeças intrincados para encontrar a saída. Cada passo é uma jornada através do desconhecido, onde a mente é testada e a bravura é essencial. Aqueles que desvendam os segredos do Labirinto de Sombras podem ganhar conhecimentos proibidos ou enfrentar um destino terrível."
-    }
-  ]
+  "data": {
+    "arcs": [
+      {
+        "id": 1,
+        "img": "https://i.pinimg.com/564x/5b/f0/fc/5bf0fc5b0deda8aa400a013e7600d989.jpg",
+        "img2": "https://i.pinimg.com/564x/9c/a4/2f/9ca42ff46b480d260b38cb3db042cf10.jpg",
+        "title": "Demônio da Ira",
+        "history": "Assombra os pesadelos daqueles que se atrevem a cruzar seu caminho. Sua mera presença é um presságio de desgraça, deixando um rastro de destruição e caos por onde passa. Os contos sobre o Demônio da Ira falam de um ser com chifres afiados como lâminas, olhos ardentes como brasas e uma pele tão escura quanto a meia-noite. Seu rugido ressoa como trovões, fazendo tremer até os corações mais corajosos. Dizem que ele surge quando as paixões humanas se inflamam, quando a raiva e a fúria atingem um ponto de ebulição."
+      },
+      {
+        "id": 2,
+        "img": "https://i.pinimg.com/564x/1e/4f/18/1e4f18c45e8a32368b2eb6031b93a503.jpg",
+        "img2": "https://i.pinimg.com/564x/61/0b/b9/610bb952becc0dfb59b476e074173f8b.jpg",
+        "title": "Cidade Rosa",
+        "history": "Uma cidade misteriosa e envolta em um brilho etéreo de tonalidades rosa. Lendas urbanas contam que a Cidade Rosa é habitada por criaturas sobrenaturais que se alimentam das emoções humanas. Suas ruas sinuosas e becos sombrios escondem segredos sombrios e encontros inesperados. Dizem que aqueles que entram na Cidade Rosa podem ter seus desejos realizados, mas a um custo terrível. As sombras dançam ao luar, e os suspiros de esperança ecoam pelas ruas enquanto o crepúsculo se desvanece em escuridão."
+      },
+      {
+        "id": 3,
+        "img": "https://img.freepik.com/premium-photo/anime-style-dark-street-with-dark-city-dark-building_717440-9200.jpg",
+        "img2": "https://i.pinimg.com/564x/1f/a5/56/1fa556b6bac43f30b918e47830cb8380.jpg",
+        "title": "Reino das Correntes",
+        "history": "O Reino das Correntes é um mundo paralelo onde as leis da física são distorcidas. Neste reino enigmático, as correntes de energia são visíveis e palpáveis, e os usuários de Jujutsu têm o poder de manipular essas correntes para moldar a realidade à sua vontade. Porém, cada manipulação tem um preço, e a ganância por poder pode levar à ruína. Aqueles que se aventuram no Reino das Correntes devem enfrentar desafios de lógica e ilusões hipnotizantes, enquanto tentam dominar o fluxo de correntes que entrelaça tudo."
+      },
+      {
+        "id": 4,
+        "img": "https://i.pinimg.com/564x/b1/c0/a0/b1c0a06b329b4791ade4f56b3d7ba37e.jpg",
+        "img2": "https://i.pinimg.com/564x/c3/a9/8d/c3a98d299e4c0c7d913ce495065f924f.jpg",
+        "title": "Estrada dos Pesadelos",
+        "history": "A Estrada dos Pesadelos é um caminho sombrio que atravessa as profundezas da mente humana. Quando os sonhos e os pesadelos colidem, esta estrada se materializa, levando os viajantes a um labirinto de ilusões e medos. Os usuários de Jujutsu que ousam percorrer essa estrada devem confrontar seus próprios demônios interiores, enfrentando horrores que só existem nas profundezas do subconsciente. A Estrada dos Pesadelos é um teste de coragem e autoconhecimento, onde a linha entre a realidade e a imaginação se dissolve."
+      },
+      {
+        "id": 5,
+        "img": "https://i.pinimg.com/564x/a5/04/96/a50496b42563795cb276a17f2497cce5.jpg",
+        "img2": "https://i.pinimg.com/564x/7a/4e/32/7a4e325d81d494e6a8adaf23735eb256.jpg",
+        "title": "Sinfonia dos Fantasmas",
+        "history": "Numa noite de lua cheia, os espíritos dos falecidos ganham vida e se reúnem para uma macabra sinfonia. A Sinfonia dos Fantasmas ocorre em um cemitério antigo, onde as lápides se transformam em instrumentos e as árvores sussurram canções melancólicas. Os usuários de Jujutsu são convocados para investigar o mistério por trás desse fenômeno sobrenatural. Porém, os fantasmas não descansam facilmente, e o poder da música fantasmagórica pode revelar segredos obscuros que devem permanecer enterrados."
+      },
+      {
+        "id": 6,
+        "img": "https://i.pinimg.com/564x/37/42/8f/37428fefb065263fb38219dceb9e09b6.jpg",
+        "img2": "https://i.pinimg.com/564x/30/e5/5f/30e55fc5e9fd436fe73cc78529f86c93.jpg",
+        "title": "Labirinto de Sombras",
+        "history": "Uma dimensão de escuridão e enigmas, o Labirinto de Sombras é um local onde a luz não pode penetrar. Os usuários de Jujutsu que entram neste labirinto devem enfrentar criaturas feitas de sombras e resolver quebra-cabeças intrincados para encontrar a saída. Cada passo é uma jornada através do desconhecido, onde a mente é testada e a bravura é essencial. Aqueles que desvendam os segredos do Labirinto de Sombras podem ganhar conhecimentos proibidos ou enfrentar um destino terrível."
+      }
+    ]
+  ,
+    "locals":[
+
+      {
+        "id": 1,
+        "img": "https://i.pinimg.com/564x/31/7f/9c/317f9c4200bdbdafc84243f0f06efb47.jpg",
+        "img2": "https://i.pinimg.com/564x/16/f8/e3/16f8e3a8a7922d553eabc197d4563b0d.jpg",
+        "title": "Setor Privado",
+        "description": "Neste enclave privado, feiticeiros independentes se especializam em tarefas que ficam além dos limites da sociedade normal. Eles se lançam na escuridão, aceitando encargos que vão desde a contenção de maldições selvagens até a eliminação de seres demoníacos. Neste setor oculto, as fronteiras entre o humano e o sobrenatural se desfazem, permitindo que esses feiticeiros habilidosos enfrentem ameaças que outros evitariam. Suas ações acontecem nas sombras, onde os poderes da maldição e da demonologia se entrelaçam, e o risco é tão alto quanto a recompensa. Seja lutando contra maldições desenfreadas ou perseguindo demônios insaciáveis, o setor privado é o palco de batalhas e acordos que desafiam a norma e abraçam o desconhecido."  
+      },
+      {
+        "id": 2,
+        "img": "https://i.pinimg.com/564x/8a/bc/b1/8abcb1401def35f55648c2337aaad063.jpg",
+        "img2": "https://i.pinimg.com/564x/4b/07/21/4b0721089294a3b5f0f10f5aa3be6394.jpg",
+        "title": "Clã Zenin",
+        "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas"
+
+      },
+      {
+        "id": 3,
+        "img": "https://i.pinimg.com/564x/84/f4/ad/84f4adeb9488a84cac5afc1c34cb9aad.jpg",
+        "img2": "https://i.pinimg.com/564x/92/1a/2f/921a2f65d380f15c479b922e42957f0f.jpg",
+        "title": "Academia das Ilusões",
+        "description": "Bem-vindo à Academia das Ilusões, onde os feiticeiros exploram a arte complexa de controlar ilusões e manipular a realidade. As paredes desta academia são uma sinfonia de cores em constante mudança, com ilusões mágicas dançando no ar como fumaça. Estudantes aprendem a criar visões enganosas e truques de percepção que podem confundir até mesmo os mais experientes adversários. Entre as aulas teóricas e práticas, os corredores são corredores de espelhos e portas que levam a lugares que desafiam a lógica. A cada esquina, há um teste para a mente e os sentidos, desafiando os estudantes a distinguir entre a realidade e a ilusão. Na Biblioteca dos Sonhos, antigos pergaminhos guardam segredos ocultos por trás de véus de engano. Na Arena do Reflexo, os feiticeiros duelam em um espetáculo de imagens e sombras, testando suas habilidades de ilusão. Na Academia das Ilusões, a realidade é apenas o começo, e a verdade é uma construção flexível que os estudantes aprendem a moldar de acordo com suas vontades."
+      },
+      {
+        "id": 4,
+        "img": "https://i.pinimg.com/564x/62/06/40/6206408eb8f4bb53241c20e5eff28fb0.jpg",
+        "img2": "https://i.pinimg.com/564x/02/fd/63/02fd634f38e8505a32fc37bb91d97207.jpg",
+        "title": "Mercado das Relíquias",
+        "description": "O Mercado das Relíquias é um labirinto de barracas coloridas e misteriosas, onde os feiticeiros vêm em busca de tesouros ocultos e artefatos antigos. A névoa perfumada do incenso paira no ar enquanto vendedores astutos oferecem desde amuletos encantados até poções exóticas. À medida que os visitantes percorrem as vielas estreitas, eles podem tropeçar em um espelho que reflete o futuro, ou encontrar uma lâmpada que promete conceder desejos. Por trás das aparências, no entanto, há segredos sombrios e negócios obscuros que se desenrolam nos recantos mais escuros. Feiticeiros habilidosos negociam em linguagens antigas e acordos misteriosos, trocando conhecimento e artefatos em um delicado jogo de sombras. O Mercado das Relíquias é."
+      },
+      {
+        "id": 5,
+        "img": "https://i.pinimg.com/564x/8a/bc/b1/8abcb1401def35f55648c2337aaad063.jpg",
+        "img2": "https://i.pinimg.com/564x/4b/07/21/4b0721089294a3b5f0f10f5aa3be6394.jpg",
+        "title": "Clã Zenin",
+        "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas"
+
+      } 
+    ]
+  }
 }
+

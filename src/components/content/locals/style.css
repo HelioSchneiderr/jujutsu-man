@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'Codec' ;
+    src: url('../../.././fonts/codec-pro-extrabold.ttf') format('truetype');
+    font-family: regular;
+  }
+  
+  
+  .lore{
+    background-color:#101728 ;
+    padding-bottom: 150px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  .lore-card ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+  
+  .description{
+    height:80px;
+    width: 250px;
+    padding:6px;
+    box-sizing: border-box;
+    position:absolute;
+    bottom:10px;
+    color:#FFF; 
+    transition: .5s;
+  }
+  
+  
+  
+  .card{
+    border: 1px solid #9340FF;
+    border-radius: 10px;
+    height: 330px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+    overflow:hidden;
+    position: relative;
+    transition: 0.3;
+  }
+  
+  .card img{
+    height: 400px;
+    width: 250px;
+    border-radius:5px; 
+  }
+  
+  .description button{
+    padding: 8px;
+    width: 110px;
+    border: none;
+    margin-left: 10px;
+    background: rgb(147,64,255);
+    background: linear-gradient(90deg, rgba(147,64,255,1) 0%, rgba(16,23,40,1) 100%);
+    border-radius: 5px 5px 20px 5px;
+    transition: all .2s cubic-bezier(.22, .61, .36, 1);
+    cursor: pointer;
+  }
+  
+  .description button:hover {
+    transition: all .2s cubic-bezier(.22, .61, .36, 1);
+    background-color: #065dd8;
+    transform: translateY(-2px);
+  }
+  
+  .description h2{
+    margin:10px;
+    font-size: 25px;
+  }
+  
+  .description p{
+    font-size: 14px;
+    margin: 10px;
+    text-align: left;
+    visibility:hidden;
+    opacity: 0;
+  }
+  
+  .card:hover{
+    cursor:pointer; 
+  }
+  .card:hover .description{
+    height:300px;
+    bottom:-4px;
+    background:black;
+  }
+  .card:hover p{
+    opacity:1;
+    visibility: visible;  
+  }
+  .card:hover img{
+    transition: .5s;
+    transform:scale(1.1);
+  }
+  
+  
+  .popUpCard{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border-radius: 15px;
+    transform: translate(-50%, -50%);
+    border: 0.5px solid #9340FF;
+    padding: 10px;
+    width: 35%;
+    height: 85%;
+    background-color: #202B39;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    transition: 0.3s;
+  }
+  
+  .popUpCard h2{
+    font-size: 35px;
+    font-family: 'Codec', sans-serif;
+    color: #9340FF;
+  }
+  
+  .popUpCard p{
+    overflow-y: auto;
+    border: none;
+    max-height: 230px;
+    font-size: 16.5px;
+    font-family: 'Codec', sans-serif;
+    text-align: justify;
+    color: white;
+    line-height: 25px;  
+  }
+  
+  .popUpCard p::-webkit-scrollbar {
+    width: 2px; /* Largura da barra de rolagem */
+  }
+  
+  .popUpCard p::-webkit-scrollbar-track {
+    background-color: #f1f1f100; /* Cor de fundo da área da barra de rolagem */
+  }
+  
+  .popUpCard p::-webkit-scrollbar-thumb {
+    background-color: #9340FF; /* Cor do "polegar" da barra de rolagem */
+    border-radius: 10px; /* Borda arredondada do "polegar" */
+  }
+  
+  .popUpCard p::-webkit-scrollbar-thumb:hover {
+    background-color: #555; /* Cor do "polegar" ao passar o mouse */
+  }
+  
+  
+  .card-up{
+    width: 100%;
+    border-radius: 15px;
+  }
+  
+  .image-x{
+    margin-top: 30px;
+    margin-left: 95%;
+    cursor: pointer;
+    
+  }
+  
+  .image-x:hover{
+    transition: .5s;
+    transform:scale(1.2);
+  }
