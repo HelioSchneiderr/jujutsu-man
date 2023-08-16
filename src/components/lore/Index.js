@@ -4,7 +4,7 @@ import './style.css'
 
 import History from '../content/history/Index'
 import Characters from '../content/history/Index'
-import Clans from '../content/history/Index'
+import Clans from '../content/clans/Index'
 import Locals from '../content/locals/Index'
 
 const Index = () => {

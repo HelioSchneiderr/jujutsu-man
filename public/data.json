@@ -81,9 +81,29 @@
         "img": "https://i.pinimg.com/564x/8a/bc/b1/8abcb1401def35f55648c2337aaad063.jpg",
         "img2": "https://i.pinimg.com/564x/4b/07/21/4b0721089294a3b5f0f10f5aa3be6394.jpg",
         "title": "Clã Zenin",
-        "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas"
+        "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas."
 
       } 
+    ],
+    "clans":[
+      {
+        "id": 1,
+        "img": "https://e1.pxfuel.com/desktop-wallpaper/968/413/desktop-wallpaper-anime-city-japan-1920-x-1080-japanese-anime-city.jpg",
+        "img2": "https://media.discordapp.net/attachments/999767901470994453/1141448308070555868/kenji_zenin.png?width=356&height=465",
+        "title":"Clã Zenin",
+        "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas.",
+        "boss": "Kenji Zenin"
+
+      },
+      {
+        "id": 2,
+        "img": "https://i.pinimg.com/564x/13/36/e3/1336e342aaa3ed2843636dd4366fa2d0.jpg",
+        "img2": "https://media.discordapp.net/attachments/862437238028632104/1141454528592478218/695783_r7z2okd6.png?width=465&height=465",
+        "title":"Clã Yamazaki",
+        "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas.",
+        "boss": "Kiko Mana"
+
+      }
     ]
   }
 }

@@ -14,15 +14,23 @@ const Index = () => {
             .catch(error => console.error('Error fetching data:', error));
     }, []);
 
-    const togglePopUp = (id) => {
-        setLocals(prevArcs => prevArcs.map(locals => {
+    const openPopUp = (id) => {
+        setLocals(prevLocals => prevLocals.map(locals => {
             if (locals.id === id) {
-                return { ...locals, popUpState: !locals.popUpState } ;    
+                return { ...locals, popUpState: true };
             }
-            return locals;
+            return { ...locals, popUpState: false };
         }));
     }
 
+    const closePopUp = (id) => {
+        setLocals(prevLocals=> prevLocals.map(Locals => {
+            if (Locals.id === id) {
+                return { ...Locals, popUpState: false };
+            }
+            return Locals;
+        }));
+    }
 
   return (
     <>
@@ -39,7 +47,7 @@ const Index = () => {
                                         <h2>{locals.title}</h2>
                                         <p>{locals.description}</p>
                                     </div>
-                                    <img className='image-x' src={X} onClick={() => togglePopUp(locals.id)} alt="" />
+                                    <img className='image-x' src={X} onClick={() => closePopUp(locals.id)} alt="" />
                                 </div>
                             ) : (
                                 <div className='card' >
@@ -49,7 +57,7 @@ const Index = () => {
                                         {locals.description.length > 100 ? (
                                             
                                             <p>{locals.description.slice(0, 200) + '. Veja mais clicando no botão'}</p>) : (<p>{locals.description}</p>)}
-                                        <button onClick={() => togglePopUp(locals.id)}>Veja Mais</button>
+                                        <button onClick={() => openPopUp(locals.id)}>Veja Mais</button>
                                     </div>
                                     
                                 </div>
