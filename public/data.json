@@ -78,12 +78,20 @@
       },
       {
         "id": 5,
-        "img": "https://i.pinimg.com/564x/8a/bc/b1/8abcb1401def35f55648c2337aaad063.jpg",
-        "img2": "https://i.pinimg.com/564x/4b/07/21/4b0721089294a3b5f0f10f5aa3be6394.jpg",
-        "title": "Clã Zenin",
+        "img": "https://i.pinimg.com/564x/2c/b2/65/2cb265f2c4be970a0db3da94fae63765.jpg",
+        "img2": "https://i.pinimg.com/564x/ac/3c/fd/ac3cfd5ffbe40d04f373eae238634596.jpg",
+        "title": "Setor Publico",
         "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas."
 
-      } 
+      },
+      {
+        "id": 6,
+        "img": "https://i.pinimg.com/564x/ff/ef/66/ffef665d1220d0d5baec66de98e9d721.jpg",
+        "img2": "https://i.pinimg.com/564x/11/a3/62/11a362a70854e83eb52c40620daf468c.jpg",
+        "title": "Bar do Demônio",
+        "description": "O Bar do Demônio possui uma atmosfera única e distintamente misteriosa. As paredes são adornadas com painéis de madeira escura, que parecem ter sido envelhecidos pelo tempo e pelas histórias compartilhadas pelos frequentadores ao longo dos anos. O ambiente é iluminado por uma luz suave e sutil, emanando de lustres de ferro forjado com detalhes góticos. O bar possui um balcão extenso e robusto, feito de madeira escura entalhada com padrões intricados. A superfície do balcão mostra marcas de uso, revelando a longa história de atendimento aos clientes sedentos. Por trás do balcão, prateleiras estão repletas de uma coleção impressionante de bebidas destiladas, muitas delas em garrafas artesanais e rótulos vintage."
+
+      }  
     ],
     "clans":[
       {
@@ -103,6 +111,106 @@
         "description": "O clã transcende a noção tradicional de influência, assemelhando-se a uma cidade viva sob sua própria égide. Uma trama de prédios pequenos, casas rústicas e uma imponente mansão de estilo feudal do Japão forma seu domínio. Essa combinação única de arquiteturas traz uma atmosfera que ressoa com o equilíbrio entre tradição e inovação. Os prédios pequenos podem abrigar a vitalidade da prática cotidiana de jujutsu, onde os membros do clã treinam e aprimoram suas habilidades. As casas rústicas, evocando uma conexão profunda com a natureza e as raízes ancestrais, podem representar a união do clã, onde relações familiares e tradições são nutridas e protegidas. A joia da coroa, no entanto, é a majestosa mansão que remonta aos dias da época feudal do Japão. Sua arquitetura imbuída de história e esplendor transporta os visitantes para um passado distante. Os corredores com piso de madeira, os tetos baixos ricamente esculpidos e os jardins meticulosamente cuidados conferem uma aura de antiguidade e dignidade. Esta mansão ancestral pode ser o epicentro do clã, onde as decisões mais cruciais são tomadas.",
         "boss": "Kiko Mana"
 
+      },
+      {
+        "id": 3,
+        "img": "https://i.pinimg.com/474x/92/7d/a1/927da1ad5db59ad156a1ba399d09b88b.jpg",
+        "img2": "https://i.pinimg.com/564x/3e/0b/d7/3e0bd7ef14d25a3fbae0c606015709db.jpg",
+        "title": "Clã Sangue Oni",
+        "description": "O flufluffle do jujutsu é um espetáculo hipopótamo de xaropinho que dança com unicórnios cósmicos em tardes de terça-feira. As maçãs com gravata borboleta praticam o jujutsu submarino enquanto equilibram baldes de tinta invisível. Nas quartas-feiras de lua azul, os sapos malabaristas promovem campeonatos intergalácticos de jujutsu de pulo de corda. No planeta Gelatônia, onde as nuvens são feitas de algodão-doce e as estrelas cantam ópera, os habitantes se comunicam através de complexas sequências de movimentos de jujutsu. Eles realizam torções celestiais e estrangulamentos interplanetários com a graça de um bando de flamingos bailarinos. O Grande Mestre Gelatônio, com seu bigode de chiclete de morango, lidera a academia de jujutsu interestelar, onde as aulas incluem técnicas avançadas de teletransporte através de poses elaboradas.",
+        "boss": "Akira Onimaru"
+      },
+      {
+        "id": 4,
+        "img": "https://i.pinimg.com/564x/b6/47/63/b64763293e959ecc54d3a00682758b1c.jpg",
+        "img2": "https://i.pinimg.com/564x/26/9c/a6/269ca64d54e58f6aa17f350923177fec.jpg",
+        "title": "Clã Lua Crescente",
+        "description": "O flufluffle do jujutsu é um espetáculo hipopótamo de xaropinho que dança com unicórnios cósmicos em tardes de terça-feira. As maçãs com gravata borboleta praticam o jujutsu submarino enquanto equilibram baldes de tinta invisível. Nas quartas-feiras de lua azul, os sapos malabaristas promovem campeonatos intergalácticos de jujutsu de pulo de corda. No planeta Gelatônia, onde as nuvens são feitas de algodão-doce e as estrelas cantam ópera, os habitantes se comunicam através de complexas sequências de movimentos de jujutsu. Eles realizam torções celestiais e estrangulamentos interplanetários com a graça de um bando de flamingos bailarinos. O Grande Mestre Gelatônio, com seu bigode de chiclete de morango, lidera a academia de jujutsu interestelar, onde as aulas incluem técnicas avançadas de teletransporte através de poses elaboradas.",
+        "boss": "Hana Tsukikage"
+      },
+      {
+        "id": 5,
+        "img": "https://i.pinimg.com/564x/97/f6/6b/97f66b7b3fa6b9673dea8d773e2b9241.jpg",
+        "img2": "https://i.pinimg.com/564x/57/46/24/574624f576097741b97c4dc26fe9f987.jpg",
+        "title": "Clã Raios",
+        "description": "O flufluffle do jujutsu é um espetáculo hipopótamo de xaropinho que dança com unicórnios cósmicos em tardes de terça-feira. As maçãs com gravata borboleta praticam o jujutsu submarino enquanto equilibram baldes de tinta invisível. Nas quartas-feiras de lua azul, os sapos malabaristas promovem campeonatos intergalácticos de jujutsu de pulo de corda.No planeta Gelatônia, onde as nuvens são feitas de algodão-doce e as estrelas cantam ópera, os habitantes se comunicam através de complexas sequências de movimentos de jujutsu. Eles realizam torções celestiais e estrangulamentos interplanetários com a graça de um bando de flamingos bailarinos. O Grande Mestre Gelatônio, com seu bigode de chiclete de morango, lidera a academia de jujutsu interestelar, onde as aulas incluem técnicas avançadas de teletransporte através de poses elaboradas.",
+        "boss": "Ryota Ikazuchi"
+      },
+      {
+        "id": 6,
+        "img": "https://i.pinimg.com/564x/b1/13/45/b1134551216d6bc2a77d04860899c7f9.jpg",
+        "img2": "https://i.pinimg.com/564x/2a/91/bb/2a91bbd3cd889a4c2de58ea9d7fc3806.jpg",
+        "title": "Clã Sombras Profundas",
+        "description": "O flufluffle do jujutsu é um espetáculo hipopótamo de xaropinho que dança com unicórnios cósmicos em tardes de terça-feira. As maçãs com gravata borboleta praticam o jujutsu submarino enquanto equilibram baldes de tinta invisível. Nas quartas-feiras de lua azul, os sapos malabaristas promovem campeonatos intergalácticos de jujutsu de pulo de corda.No planeta Gelatônia, onde as nuvens são feitas de algodão-doce e as estrelas cantam ópera, os habitantes se comunicam através de complexas sequências de movimentos de jujutsu. Eles realizam torções celestiais e estrangulamentos interplanetários com a graça de um bando de flamingos bailarinos. O Grande Mestre Gelatônio, com seu bigode de chiclete de morango, lidera a academia de jujutsu interestelar, onde as aulas incluem técnicas avançadas de teletransporte através de poses elaboradas.",
+        "boss": "Yumi Kurayami"
+      }
+    ],
+    "characters":[
+      {
+        "id": 1,
+        "img": "https://i.pinimg.com/564x/31/f6/16/31f616dd96085a0375beace640263111.jpg",
+        "img2": "https://i.pinimg.com/564x/3f/1e/ad/3f1ead69e348c6433a408b9593be549f.jpg",
+        "name": "Yuji Itadori",
+        "description": "Ele é um jovem estudante do ensino médio com uma personalidade amigável, otimista e atlética. Yuji acidentalmente se envolve no mundo sombrio dos feiticeiros amaldiçoados após encontrar um objeto amaldiçoado em uma escola abandonada. No processo, ele liberta uma maldição perigosa e se torna um hospedeiro involuntário para Sukuna Ryoumen, um feiticeiro amaldiçoado lendário. Determinado a proteger os outros e a erradicar as maldições, Yuji se une à escola de feitiçaria de Tóquio e se torna um Jujutsu Sorcerer, embarcando em missões perigosas para salvar vidas e combater forças malévolas. Sua jornada é marcada por seu senso de justiça, seu desejo de proteger os entes queridos e sua evolução como feiticeiro, enfrentando desafios físicos e morais ao longo do caminho.",
+        "nickname": "Portador do Sukuna",
+        "age": "22",
+        "height": "1,85",
+        "grade": "Grau 1"
+      },
+      {
+        "id": 2,
+        "img": "https://i.pinimg.com/564x/a6/b6/1e/a6b61e66cbd1caa2f289069e29d2f74a.jpg",
+        "img2": "https://i.pinimg.com/564x/3f/1e/ad/3f1ead69e348c6433a408b9593be549f.jpg",
+        "name": "Gojou Satoru",
+        "description": "Ele é um jovem estudante do ensino médio com uma personalidade amigável, otimista e atlética. Yuji acidentalmente se envolve no mundo sombrio dos feiticeiros amaldiçoados após encontrar um objeto amaldiçoado em uma escola abandonada. No processo, ele liberta uma maldição perigosa e se torna um hospedeiro involuntário para Sukuna Ryoumen, um feiticeiro amaldiçoado lendário. Determinado a proteger os outros e a erradicar as maldições, Yuji se une à escola de feitiçaria de Tóquio e se torna um Jujutsu Sorcerer, embarcando em missões perigosas para salvar vidas e combater forças malévolas. Sua jornada é marcada por seu senso de justiça, seu desejo de proteger os entes queridos e sua evolução como feiticeiro, enfrentando desafios físicos e morais ao longo do caminho.",
+        "nickname": "Portador do Sukuna",
+        "age": "22",
+        "height": "1,85",
+        "grade": "Grau 1"
+      },
+      {
+        "id": 3,
+        "img": "https://i.pinimg.com/564x/39/55/fd/3955fd490dacd5028d1d7b09c60276d3.jpg",
+        "img2": "https://i.pinimg.com/564x/3f/1e/ad/3f1ead69e348c6433a408b9593be549f.jpg",
+        "name": "Megumi Fushiguro",
+        "description": "Ele é um jovem estudante do ensino médio com uma personalidade amigável, otimista e atlética. Yuji acidentalmente se envolve no mundo sombrio dos feiticeiros amaldiçoados após encontrar um objeto amaldiçoado em uma escola abandonada. No processo, ele liberta uma maldição perigosa e se torna um hospedeiro involuntário para Sukuna Ryoumen, um feiticeiro amaldiçoado lendário. Determinado a proteger os outros e a erradicar as maldições, Yuji se une à escola de feitiçaria de Tóquio e se torna um Jujutsu Sorcerer, embarcando em missões perigosas para salvar vidas e combater forças malévolas. Sua jornada é marcada por seu senso de justiça, seu desejo de proteger os entes queridos e sua evolução como feiticeiro, enfrentando desafios físicos e morais ao longo do caminho.",
+        "nickname": "Portador do Sukuna",
+        "age": "22",
+        "height": "1,85",
+        "grade": "Grau 1"
+      },
+      {
+        "id": 4,
+        "img": "https://i.pinimg.com/564x/e0/43/ef/e043efaae719657184c636b2734a6d5a.jpg",
+        "img2": "https://i.pinimg.com/564x/3f/1e/ad/3f1ead69e348c6433a408b9593be549f.jpg",
+        "name": "Nobara",
+        "description": "Ele é um jovem estudante do ensino médio com uma personalidade amigável, otimista e atlética. Yuji acidentalmente se envolve no mundo sombrio dos feiticeiros amaldiçoados após encontrar um objeto amaldiçoado em uma escola abandonada. No processo, ele liberta uma maldição perigosa e se torna um hospedeiro involuntário para Sukuna Ryoumen, um feiticeiro amaldiçoado lendário. Determinado a proteger os outros e a erradicar as maldições, Yuji se une à escola de feitiçaria de Tóquio e se torna um Jujutsu Sorcerer, embarcando em missões perigosas para salvar vidas e combater forças malévolas. Sua jornada é marcada por seu senso de justiça, seu desejo de proteger os entes queridos e sua evolução como feiticeiro, enfrentando desafios físicos e morais ao longo do caminho.",
+        "nickname": "Portador do Sukuna",
+        "age": "22",
+        "height": "1,85",
+        "grade": "Grau 1"
+      },
+      {
+        "id": 5,
+        "img": "https://i.pinimg.com/564x/54/48/32/544832b9b4403a1f09b26b287bdea3db.jpg",
+        "img2": "https://i.pinimg.com/564x/3f/1e/ad/3f1ead69e348c6433a408b9593be549f.jpg",
+        "name": "Sukuna",
+        "description": "Ele é um jovem estudante do ensino médio com uma personalidade amigável, otimista e atlética. Yuji acidentalmente se envolve no mundo sombrio dos feiticeiros amaldiçoados após encontrar um objeto amaldiçoado em uma escola abandonada. No processo, ele liberta uma maldição perigosa e se torna um hospedeiro involuntário para Sukuna Ryoumen, um feiticeiro amaldiçoado lendário. Determinado a proteger os outros e a erradicar as maldições, Yuji se une à escola de feitiçaria de Tóquio e se torna um Jujutsu Sorcerer, embarcando em missões perigosas para salvar vidas e combater forças malévolas. Sua jornada é marcada por seu senso de justiça, seu desejo de proteger os entes queridos e sua evolução como feiticeiro, enfrentando desafios físicos e morais ao longo do caminho.",
+        "nickname": "Portador do Sukuna",
+        "age": "22",
+        "height": "1,85",
+        "grade": "Grau 1"
+      },
+      {
+        "id": 6,
+        "img": "https://i.pinimg.com/564x/26/35/1c/26351c4b302e23a22ef8d7f8dc93feac.jpg",
+        "img2": "https://i.pinimg.com/564x/3f/1e/ad/3f1ead69e348c6433a408b9593be549f.jpg",
+        "name": "Nanami",
+        "description": "Ele é um jovem estudante do ensino médio com uma personalidade amigável, otimista e atlética. Yuji acidentalmente se envolve no mundo sombrio dos feiticeiros amaldiçoados após encontrar um objeto amaldiçoado em uma escola abandonada. No processo, ele liberta uma maldição perigosa e se torna um hospedeiro involuntário para Sukuna Ryoumen, um feiticeiro amaldiçoado lendário. Determinado a proteger os outros e a erradicar as maldições, Yuji se une à escola de feitiçaria de Tóquio e se torna um Jujutsu Sorcerer, embarcando em missões perigosas para salvar vidas e combater forças malévolas. Sua jornada é marcada por seu senso de justiça, seu desejo de proteger os entes queridos e sua evolução como feiticeiro, enfrentando desafios físicos e morais ao longo do caminho.",
+        "nickname": "Portador do Sukuna",
+        "age": "22",
+        "height": "1,85",
+        "grade": "Grau 1"
       }
     ]
   }

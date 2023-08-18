@@ -41,7 +41,7 @@ const Index = () => {
                                 <div className="popUpCardClans" >
                                     {/* Conteúdo do popup */}
                                     <div className='contentClans'>
-                                        <img className='card-up' src={clans.img2} alt={clans.title}  height="356px" width="468px"/>
+                                        <img className='card-up-clans' src={clans.img2} alt={clans.title}  height="356px" width="468px"/>
                                         
                                         <div>
                                             <h2>{clans.title}</h2>
