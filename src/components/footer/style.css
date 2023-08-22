@@ -30,9 +30,6 @@
     padding: 10px;
 }
 
-.contact p img{
-    padding-right: 10px;
-}
 
 .contact p{
     font-family: 'Codec', sans-serif;
@@ -40,6 +37,18 @@
     font-weight: bold;
     line-height: 25px;
     margin-bottom: 20px;
+    transition: 0.5s;
+}
+
+.contact p a img{
+    padding-right: 10px;
+    transition: 0.1s;
+}
+
+
+.contact p a img:hover {
+    transform: scale(1,1);
+    transition: 0.5s;
 }
 
 .contact h1{

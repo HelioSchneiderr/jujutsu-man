@@ -11,6 +11,8 @@ import Instagram from '../.././img/icons/instagram.png'
 
 
 const index = () => {
+
+
   return (
     <>
      <div className='footer'>
@@ -22,10 +24,10 @@ const index = () => {
             <h1>Fale Conosco</h1>
             <p>Forje seu caminho nas sombras das maldições, supere os limites como Satoru Gojou e domine a dança cósmica das técnicas amaldiçoadas em sua própria saga lendária.</p>
             <p>
-                <img src={Linkedin} alt="" />
-                <img src={Discord} alt="" />
-                <img src={Whatsapp} alt="" />
-                <img src={Instagram} alt="" />
+                <a href="#"><img src={Linkedin} alt="" /></a>  
+                <a href="#"><img src={Discord} alt="" /></a>
+                <a href="#"><img src={Whatsapp} alt="" /></a>
+                <a href="#"><img src={Instagram} alt="" /></a>
             </p>
         </div>
      </div>
