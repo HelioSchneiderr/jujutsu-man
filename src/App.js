@@ -10,11 +10,14 @@ import Lore from './components/lore/Index'
 
 function App() {
 
+  const [loreControl, setLoreControl] = useState(0)
   const [pageControl, setPageControl] = useState(0);
   
-  function changePage(n){
+  function changePage(n, m){
     setPageControl(n)
+    setLoreControl(m)
   }
+
 
 
   return (
@@ -24,7 +27,7 @@ function App() {
             <h1>Jujutsu Man</h1>
       </div>
       {pageControl === 0 && <Main changePage={changePage}/>}
-      {pageControl === 1 && <Lore/>}
+      {pageControl === 1 && <Lore changePage={changePage} loreControl={loreControl} setLoreControl={setLoreControl}/>}
       <Footer/>
     </div>
   );

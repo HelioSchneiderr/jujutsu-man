@@ -3,7 +3,7 @@ import "./style.css"
 import Dice from "../.././img/dice.png"
 import Book from "../.././img/book.png"
 
-function Index({ changePage }) {
+function Index({ changePage, changeLore }) {
   const section2Ref = useRef(null);
 
   const scrollToSection2 = () => {
@@ -27,10 +27,10 @@ function Index({ changePage }) {
         <h1>Jujutsu Man Lore</h1>
         <div className='buttons-img'>
           <div>
-            <button onClick={()=>{changePage(1)}}>Arcos</button>
-            <button>Lugares</button>
-            <button>Clãs</button>
-            <button>Personagens</button>
+            <button onClick={()=>{changePage(1, 1)}}>Arcos</button>
+            <button onClick={()=>{changePage(1, 2)}}>Lugares</button>
+            <button onClick={()=>{changePage(1, 3)}}>Clãs</button>
+            <button onClick={()=>{changePage(1, 4)}}>Personagens</button>
           </div>
           <div>
             <img src={Book} alt="" />

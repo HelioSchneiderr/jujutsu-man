@@ -7,7 +7,7 @@ import Characters from '../content/characters/Index'
 import Clans from '../content/clans/Index'
 import Locals from '../content/locals/Index'
 
-const Index = () => {
+const Index = ({ loreControl, setLoreControl }) => {
 
     const [control, setControl] = useState(1);
 
@@ -19,17 +19,17 @@ const Index = () => {
 
         <div>
             <div className='loreButtons'>
-                <button onClick={()=>{setControl(0)}}>Arcos</button>
-                <button onClick={()=>{setControl(1)}}>Lugares</button>
-                <button onClick={()=>{setControl(2)}}>Clãs</button>
-                <button onClick={()=>{setControl(3)}}>Personagens</button>
+                <button onClick={()=>{setLoreControl(1)}}>Arcos</button>
+                <button onClick={()=>{setLoreControl(2)}}>Lugares</button>
+                <button onClick={()=>{setLoreControl(3)}}>Clãs</button>
+                <button onClick={()=>{setLoreControl(4)}}>Personagens</button>
             </div>
         </div>
         
-        {control === 0 && <History/>}
-        {control === 1 && <Locals/>}
-        {control === 2 && <Clans/>}
-        {control === 3 && <Characters/>}
+        {loreControl === 1 && <History/>}
+        {loreControl === 2 && <Locals/>}
+        {loreControl === 3 && <Clans/>}
+        {loreControl === 4 && <Characters/>}
         
         
        
