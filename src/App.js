@@ -4,7 +4,7 @@ import { useState } from 'react';
 import './App.css';
 
 import Logo from "./img/logo-gojo.png"
-import Main from './components/main/Index'
+import Main from './components/conteudo/Index'
 import Footer from './components/footer/Index'
 import Lore from './components/lore/Index'
 
