@@ -5,7 +5,7 @@ import './App.css';
 
 import Logo from "./img/logo-gojo.png"
 import Main from './components/conteudo/Index'
-import Footer from './components/footer/Index'
+import Footer from './components/foter/Index'
 import Lore from './components/lore/Index'
 
 function App() {
