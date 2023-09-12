@@ -78,6 +78,9 @@
     text-align: left;
     visibility:hidden;
     opacity: 0;
+    line-height: 25px;
+    max-height: 90px;
+    overflow-y: auto;
   }
   
   .card-characters:hover{

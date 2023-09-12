@@ -15,8 +15,10 @@ function Index({ changePage, changeLore }) {
   return (
     <>
       <div className='section-1'>
-        <h1>Dos dados é feito o mundo</h1>
-        <img src={Dice} alt="" />
+        <div className='section-1-content'>
+          <h1>Dos dados é feito o mundo</h1>
+          <img src={Dice} alt="" />
+        </div>
         <button onClick={scrollToSection2}>Saiba Mais</button>
       </div>
       <div ref={section2Ref} className="section-2">
